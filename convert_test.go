@@ -4,7 +4,7 @@
 
 // Stratex node: This file was copied from database/sql and slightly modified.
 
-package sql
+package sqltypes
 
 import (
 	"database/sql"
