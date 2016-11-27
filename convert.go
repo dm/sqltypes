@@ -6,7 +6,7 @@
 
 // Type conversions for Scan.
 
-package sql
+package sqltypes
 
 import (
 	"database/sql"
